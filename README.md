@@ -1,8 +1,9 @@
 # Customer-Feedback-Analysis-and-Improvement
-Project Overview
+#Project Overview :
+
 This project focuses on building an end-to-end system to analyze customer feedback, uncover trends, and derive actionable insights. The system integrates SQL database management, data warehousing, sentiment analysis, and model deployment. By leveraging technologies like Python, Azure, and MLOps tools, the project demonstrates how to process, analyze, and visualize customer feedback to improve service quality and enhance decision-making.
 
-Features
+#Features :
 Database Setup and Management
 
 SQL database for storing feedback forms, customer profiles, and feedback categories.
@@ -22,7 +23,8 @@ Deployment and Visualization
 
 Deployment of sentiment analysis models via a web application or dashboard.
 Interactive visualizations of customer feedback trends and insights.
-Technologies Used
+#Technologies Used :
+
 Database: Microsoft SQL Server, SQL Data Warehouse.
 Programming: Python (Pandas, NLTK, Scikit-learn, SpaCy).
 Cloud Services: Azure Data Studio, Azure Data Services.
